@@ -1,0 +1,191 @@
+a.nav{
+    text-decoration: none;
+    color: #212121;
+}
+
+body{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #C4DCE0;
+    color: #212121;
+}
+
+hr{
+    padding: 0;
+}
+
+.wrapper{
+    margin-bottom: 60px;
+    height: max-content;
+    
+}
+
+
+.section {
+    padding: 60px 120px;
+
+}
+
+.services-sec{
+    padding: 60px 120px;
+
+}
+/* .navigation{
+    padding: 30px 51px;
+} */
+
+div.parent-btn{text-align: center;}
+
+.btn-work {
+    display: inline-block;
+}
+
+#hero-section{
+    padding-top: 43px;
+}
+
+p#header{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 8rem  ; 
+    /* 4rem */
+    margin: 0;
+}
+
+#desc-hero{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+    width: 40%;
+    /* 40% */
+    padding-left: 3%;
+}
+
+.page-identifier{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 800;
+    letter-spacing: -6px;
+    font-size: 200px  ; 
+    color: rgba(33,33,33,0.2);
+    z-index: -1;
+}
+
+.headline{
+    margin-top: 18.125rem;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    
+}
+
+.desc{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+.accordion{
+    max-width: 100% !important;
+    margin: auto;
+    margin-left: 20px;
+    box-shadow: 0 2px 25px 0 rgba(110, 130, 208, .18) !important;
+}
+
+.accordion-button{
+    background-color:rgba(33,33,33,0.2) !important;
+    color: #212121 !important;
+    position: relative;
+    box-shadow: none !important;
+}
+
+.accordion-button:active, .accordion-button:focus{
+    border: none !important;
+}
+
+.accordion-button:hover{
+    background: #83989c !important;
+}
+
+.accordion-button::after{
+    content: "";
+    background: #ffff;
+    transform: scale(1.2);
+    border-radius: 3px;
+    transition: .5s !important;
+}
+
+.nav-btn{
+    visibility:visible;
+}
+
+.table{
+    margin-top:5rem ; 
+    width: 95%; 
+    margin-left: 48px  ;
+}
+
+
+@media screen and (max-width: 780px) {
+    .nav-btn{
+        display: none;
+    }
+    .page-identifier{
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        font-weight: 800;
+        font-size: 100px  ; 
+        color: rgba(33,33,33,0.2);
+        z-index: -1;
+    }
+
+    .wrap-maps{
+        display: none;
+    }
+
+    #header{
+        font-size: 96px !important;
+    }
+    
+    #desc-hero{
+        width: 100% !important;
+    }
+
+    body{
+        font-size: 16px;
+    }
+
+    .service-pics{
+        display: none;
+    }
+
+    .desc-wrapper{
+        width: 80% !important;
+    }
+
+    .headline{
+        margin-top: 9rem;
+    }
+    
+    .table{
+        margin-left: 0px;
+        margin-top: 10px !important;
+    }
+    
+    .accordion{
+        margin-top: 10px !important;
+    }
+
+    .img-pembatas{
+        height: 20px;
+    }
+
+    .sub-header{
+        margin: 0;
+    }
+    
+    .section{
+        gap: 1rem !important;
+    }
+}
