@@ -77,8 +77,9 @@ b. Readability atau dapat dibaca juga ditekankan pada website ini. Pasalnya deng
 c. Desain UI yang sederhana dan terorganisir akan membantu pengguna dalam mengerti dan menggunakan produk dengan mudah. Menghindari kelebihan informasi, penggunaan tata letak yang jelas juga mendukung dalam aspek kesederhanaan. 
 d. Website ini juga memiliki struktur menu yang jelas yang merupakan contoh elemen yang membantu pengguna menemukan apa yang mereka butuhkan dengan cepat.
 
+![Hero Section](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/4d46dca9-faf4-459c-86e5-d5372ac432e4)
 
-![Tampilan Web](https://www.dropbox.com/s/344146gebe8fsw0/Hero%20Section.png?dl=0)
+
 
 
 2 . Website responsive, dapat diakses melalui device: Mobile, Tablet dan Laptop,
