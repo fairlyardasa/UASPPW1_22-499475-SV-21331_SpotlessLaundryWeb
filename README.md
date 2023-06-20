@@ -79,6 +79,7 @@ d. Website ini juga memiliki struktur menu yang jelas yang merupakan contoh elem
 
 ![Hero Section](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/4d46dca9-faf4-459c-86e5-d5372ac432e4)
 
+![main.html](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/f025f7ff-d99a-4a56-8f15-7ffb5852271b)
 
 
 
@@ -153,6 +154,7 @@ Penggunaan media screen dengan ukuran 780px kebawah dikarenakan nilai pixel 700-
 }
 ```
 
+
 3 . Direct feedback ke pengguna website,
 Salah satu direct feedback ke pengguna website adalah fitur alert yang terdapat dalam javascript. Berikut ini adalah contoh penggunaanya :
 
@@ -195,6 +197,9 @@ if (isset($_SESSION['alert_message']) && isset($_SESSION['alert_type'])) {
 }
 ?>
 ```
+![chrome-capture-2023-5-20 (2)](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/ad1235e8-40ba-4faf-80e7-8b7fd64929f6)
+
+
 4 . Konten dinamis dari database.
 Untuk konten yang bersifat dinamis, dalam proyek ini terdapat sebuat fitur yang akan menampilkan transaksi apa saja yang dilakukan user. Riwayat transaksi ini akan disajikan dalam bentuk tabel yang sepenuhnya ditulis dengan php yang berada dalam file user.php. Isi dari riwayat ini juga dapat berubah tergantung pada id_user yang didapatkan dari session login.php. 
 
