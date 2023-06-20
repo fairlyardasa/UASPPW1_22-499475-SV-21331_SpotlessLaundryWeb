@@ -79,7 +79,7 @@ d. Website ini juga memiliki struktur menu yang jelas yang merupakan contoh elem
 
 ![Hero Section](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/4d46dca9-faf4-459c-86e5-d5372ac432e4)
 
-![main.html](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/f025f7ff-d99a-4a56-8f15-7ffb5852271b)
+![index.php](https://github.com/fairlyardasa/UASPPW1_22-499475-SV-21331_SpotlessLaundryWeb/assets/126530984/f025f7ff-d99a-4a56-8f15-7ffb5852271b)
 
 
 

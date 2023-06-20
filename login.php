@@ -144,7 +144,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               <button type="submit" class="btn btn-success" name="login" >Login</button>
             <button type="button" class="btn btn-primary" onclick="SignUpActivate()">Saya belum punya akun.</button>
         </form>
-        <a class="nav-btn position-relative float-end justify-content-end " onclick=window.location.href='main.html' href="#home" type="button"><img style="height: 70px;" src="asset/back-arrow.png" alt=""></a>
+        <a class="nav-btn position-relative float-end justify-content-end " onclick=window.location.href='index.php' href="#home" type="button"><img style="height: 70px;" src="asset/back-arrow.png" alt=""></a>
     </div>
 
     

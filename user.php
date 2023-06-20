@@ -85,7 +85,7 @@
           
         
           
-        <a class="nav-btn position-relative float-end justify-content-end " onclick=window.location.href='main.html' href="#home" type="button"><img style="height: 70px;" src="asset/back-arrow.png" alt=""></a>
+        <a class="nav-btn position-relative float-end justify-content-end " onclick=window.location.href='index.php' href="#home" type="button"><img style="height: 70px;" src="asset/back-arrow.png" alt=""></a>
     </div>
 
     <script src="script.js"></script>
